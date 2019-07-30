@@ -1,0 +1,8 @@
+Jose Miguel Diaz
+
+Nacionalidad: Española / Venezolana
+Edad: 20
+Idiomas: Español / Ingles / Catalan
+Ubicacion: Barcelona, España.
+Skills: Windows, Cisco, Avaya, Python, Git & GitHub.
+Trabajo: Fractalia.
